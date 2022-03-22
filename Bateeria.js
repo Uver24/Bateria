@@ -43,7 +43,7 @@ document.addEventListener("keypress", (e) => {
 })
 
 
-boton.addEventListener("click", (e) => {
+boton.addEventListener("click", (e)  => {
    e.preventDefault()
     bateria.src="bacteria/img/CONTROL.png"
     setTimeout(()=>{
