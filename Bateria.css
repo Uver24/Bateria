@@ -4,7 +4,7 @@
     margin: 0px;
 }
 body{
-   background-color:black
+   background-color:#252323
    
 }
 h1{
@@ -13,6 +13,7 @@ h1{
     display: flex;
     
 }
+
 
 header{
     display: flex;
@@ -28,10 +29,10 @@ header{
 
 #boton{
     width: auto;
-    background: #34495e;
-    border-radius: 8px;
+    background: #100333;
+    border-radius: 5px;
     color:white;
-    font-size: 23px;
+    font-size: 22px;
 
 }
 div{
