@@ -4,11 +4,7 @@
     margin: 0px;
 }
 body{
-<<<<<<< HEAD
    background-color:#252323
-=======
-   background-color:black
->>>>>>> e0702f461e948a2b8ef7fee4cc04d2f194f98c23
    
 }
 h1{
@@ -18,10 +14,6 @@ h1{
     
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> e0702f461e948a2b8ef7fee4cc04d2f194f98c23
 header{
     display: flex;
     justify-content: space-around;
@@ -36,17 +28,10 @@ header{
 
 #boton{
     width: auto;
-<<<<<<< HEAD
     background: #100333;
     border-radius: 5px;
     color:white;
     font-size: 22px;
-=======
-    background: #34495e;
-    border-radius: 8px;
-    color:white;
-    font-size: 23px;
->>>>>>> e0702f461e948a2b8ef7fee4cc04d2f194f98c23
 
 }
 div{
